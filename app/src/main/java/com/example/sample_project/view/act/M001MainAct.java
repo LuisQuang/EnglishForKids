@@ -18,16 +18,8 @@ public class M001MainAct extends BaseAct<ActivityMainBinding, M001MainVM> {
     @Override
     protected void initViews() {
         m001VM = new ViewModelProvider(this).get(M001MainVM.class);
-        m001VM.getTimeData().observe(this, i -> {
-            binding.tvNumber.setText(String.format("%s", i));
-        });
-
-        binding.btnStart.setOnClickListener(view -> startCountdown());
     }
 
-    private void startCountdown() {
-        m001VM.startCountdown();
-    }
 
     @Override
     protected ActivityMainBinding initViewBinding() {
