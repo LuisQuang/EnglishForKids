@@ -6,6 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.AnimationUtils;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -14,12 +15,32 @@ import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.viewbinding.ViewBinding;
 
+import com.example.sample_project.view.OnMainCallBack;
+
 
 public abstract class BaseFragment<V extends ViewBinding, M extends ViewModel> extends Fragment implements View.OnClickListener {
 
     protected Context context;
     protected V binding;
     protected M viewModel;
+    protected OnMainCallBack callback;
+    private Object data;
+
+    public void setCallback(OnMainCallBack callback) {
+        this.callback = callback;
+    }
+
+    public void setData(Object data) {
+        this.data = data;
+    }
+
+    protected void notify(String msg) {
+        Toast.makeText(context, msg, Toast.LENGTH_SHORT).show();
+    }
+
+    protected void notify(int msgID) {
+        Toast.makeText(context, msgID, Toast.LENGTH_SHORT).show();
+    }
 
     @Override
     public final void onAttach(@NonNull Context context) {

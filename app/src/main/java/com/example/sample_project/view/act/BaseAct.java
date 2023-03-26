@@ -7,11 +7,18 @@ import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.viewbinding.ViewBinding;
 
-public abstract class BaseAct<V extends ViewBinding, M extends ViewModel> extends AppCompatActivity implements View.OnClickListener {
+import com.example.sample_project.R;
+import com.example.sample_project.view.OnMainCallBack;
+import com.example.sample_project.view.frm.BaseFragment;
+
+import java.lang.reflect.Constructor;
+
+public abstract class BaseAct<V extends ViewBinding, M extends ViewModel> extends AppCompatActivity implements View.OnClickListener, OnMainCallBack {
     protected V binding;
     protected M viewModel;
 
@@ -25,7 +32,6 @@ public abstract class BaseAct<V extends ViewBinding, M extends ViewModel> extend
     }
 
     protected abstract Class<M> getClassVM();
-
 
     protected abstract void initViews();
 
@@ -44,5 +50,21 @@ public abstract class BaseAct<V extends ViewBinding, M extends ViewModel> extend
         Toast.makeText(this, msgID, Toast.LENGTH_SHORT).show();
     }
 
-
+    @Override
+    public void showFragement(String tag, Object data, boolean isBacked) {
+        try {
+            Class<?> clazz = Class.forName(tag);
+            Constructor<?> constructor = clazz.getConstructor();
+            BaseFragment<?, ?> baseFragment = (BaseFragment<?, ?>) constructor.newInstance();
+            baseFragment.setCallback(this);
+            baseFragment.setData(data);
+            FragmentTransaction trans = getSupportFragmentManager().beginTransaction();
+            if (isBacked) {
+                trans.addToBackStack(null);
+            }
+            trans.setCustomAnimations(R.anim.enter, R.anim.exit, R.anim.pop_enter, R.anim.pop_exit).replace(R.id.ln_main, baseFragment, tag).commit();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }
