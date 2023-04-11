@@ -13,6 +13,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf3782dc-b4f9-414e-9fe9-f67f3c311d8a" name="Changes" comment="">
+      <changelist_data name="Anh" email="leanhmta94@gmail.com" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Con gái.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Con nít.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Con trai.png" afterDir="false" />
@@ -72,6 +89,7 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Vova.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Y tế.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/OnMainCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M001_Menu.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/enter.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/exit.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/pop_enter.xml" afterDir="false" />
@@ -92,12 +110,12 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_story.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_topic.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/act/BaseAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/act/BaseAct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/act/M001MainAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/act/M001MainAct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/BaseFragment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M000_Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M000_Splash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M001_Main_Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M001_Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M001_Main_Screen.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_progress_bar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_shape.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_shape_rotate.xml" beforeDir="false" />
@@ -115,7 +133,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ljhuvguoeygy6lge]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
