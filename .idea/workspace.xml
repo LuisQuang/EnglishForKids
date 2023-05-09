@@ -12,122 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3782dc-b4f9-414e-9fe9-f67f3c311d8a" name="Changes" comment="">
-      <changelist_data name="Anh" email="leanhmta94@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Con gái.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Con nít.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Con trai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Công sở.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Cười 18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Cực hài.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Dân gian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Gia đình.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Giao thông.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Học sinh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Học trò cười.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Khoa học.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Nghề nghiệp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Người lớn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Nhà hàng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Say xỉn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Tam quốc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Thơ ca cười.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Thơ vui.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Thế giới.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Tiếu lâm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Truyện bựa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Trạng quỳnh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Tây du kí chế.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Tình yêu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Tôn giáo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Việt nam và thế giới.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Vova.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/photo/Y tế.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Con gái.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Con nít.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Con trai.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Công sở.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Cười 18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Cực hài.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Dân gian.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Gia đình.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Giao thông.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Học sinh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Học trò cười.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Khoa học.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Nghề nghiệp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Người lớn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Nhà hàng.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Say xỉn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Tam quốc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Thơ ca cười.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Thơ vui.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Thế giới.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Tiếu lâm.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Truyện bựa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Trạng quỳnh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Tây du kí chế.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Tình yêu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Tôn giáo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Việt nam và thế giới.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Vova.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/story/Y tế.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/OnMainCallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M001_Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/enter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/exit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/pop_enter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/pop_exit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_left.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_back.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_con_gai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_face.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_splash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/actionbar_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_splash.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_detail_story.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_start_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_story.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_topic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/act/BaseAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/act/BaseAct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/BaseFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M000_Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M000_Splash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/sample_project/view/frm/M001_Main_Screen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_progress_bar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_shape.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_shape_rotate.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m000_fragment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m001_main_screen.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m_action_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_detail_story.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf3782dc-b4f9-414e-9fe9-f67f3c311d8a" name="Changes" comment="ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/AndroidStudioProjects/FunStory/app/src/main/res&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/Anh/AndroidStudioProjects/Less15Storage"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\AndroidStudioProjects\FunStory\app\src\main\res" />
@@ -243,6 +128,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680223046059</updated>
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1681229236189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681229236189</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,5 +148,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
