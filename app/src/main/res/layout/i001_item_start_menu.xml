@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="#E4EFC4"
     android:orientation="vertical">
 
     <TableRow
@@ -44,7 +44,7 @@
                 android:layout_marginTop="@dimen/d_10"
                 android:fontFamily="sans-serif-light"
                 android:text="@string/txt_design"
-                android:textColor="@color/gray_mid"
+                android:textColor="#F44336"
                 android:textSize="14sp" />
 
             <TextView
@@ -52,13 +52,13 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif-light"
                 android:text="@string/txt_version"
-                android:textColor="@color/gray_mid"
+                android:textColor="#F44336"
                 android:textSize="14sp" />
         </LinearLayout>
     </TableRow>
 
     <ScrollView
-        android:background="@color/gray_light"
+        android:background="#F3E7C4"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
@@ -22,7 +24,9 @@
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rv_list_story"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                app:spanCount="4"
+                tools:listitem="@layout/i001_tem_story" />
         </LinearLayout>
 
         <!--menu-->
@@ -34,7 +38,9 @@
 
             <include
                 android:id="@+id/menu"
-                layout="@layout/item_start_menu" />
+                layout="@layout/i001_item_start_menu" />
+
+
         </LinearLayout>
     </androidx.drawerlayout.widget.DrawerLayout>
 </LinearLayout>

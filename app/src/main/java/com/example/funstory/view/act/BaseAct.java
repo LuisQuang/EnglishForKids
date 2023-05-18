@@ -1,4 +1,4 @@
-package com.example.sample_project.view.act;
+package com.example.funstory.view.act;
 
 import android.os.Bundle;
 import android.view.View;
@@ -12,9 +12,9 @@ import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.viewbinding.ViewBinding;
 
+import com.example.funstory.view.OnMainCallBack;
+import com.example.funstory.view.frm.BaseFragment;
 import com.example.sample_project.R;
-import com.example.sample_project.view.OnMainCallBack;
-import com.example.sample_project.view.frm.BaseFragment;
 
 import java.lang.reflect.Constructor;
 

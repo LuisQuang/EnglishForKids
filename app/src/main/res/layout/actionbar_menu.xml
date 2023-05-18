@@ -11,8 +11,19 @@
         android:layout_width="@dimen/d_56"
         android:layout_height="match_parent"
         android:paddingVertical="@dimen/d_10"
-        android:paddingStart="@dimen/d_10"
+        android:paddingStart="@dimen/d_20"
         android:src="@drawable/ic_menu"
+        app:tint="@color/white"
+        tools:ignore="ContentDescription,RtlSymmetry" />
+
+    <ImageView
+        android:id="@+id/iv_back"
+        android:layout_width="@dimen/d_56"
+        android:layout_height="match_parent"
+        android:paddingVertical="@dimen/d_10"
+        android:visibility="gone"
+        android:paddingStart="@dimen/d_20"
+        android:src="@drawable/ic_back"
         app:tint="@color/white"
         tools:ignore="ContentDescription,RtlSymmetry" />
 

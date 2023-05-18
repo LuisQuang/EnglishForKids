@@ -1,4 +1,4 @@
-package com.example.sample_project.viewmode;
+package com.example.funstory;
 
 import android.app.Application;
 

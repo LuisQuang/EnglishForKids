@@ -1,4 +1,4 @@
-package com.example.sample_project.viewmode;
+package com.example.funstory.viewmode;
 
 import androidx.lifecycle.ViewModel;
 

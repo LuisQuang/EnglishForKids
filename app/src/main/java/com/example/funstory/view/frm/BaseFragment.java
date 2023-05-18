@@ -1,4 +1,4 @@
-package com.example.sample_project.view.frm;
+package com.example.funstory.view.frm;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -15,7 +15,7 @@ import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.viewbinding.ViewBinding;
 
-import com.example.sample_project.view.OnMainCallBack;
+import com.example.funstory.view.OnMainCallBack;
 
 
 public abstract class BaseFragment<V extends ViewBinding, M extends ViewModel> extends Fragment implements View.OnClickListener {
