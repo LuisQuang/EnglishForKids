@@ -3,14 +3,14 @@ plugins {
 }
 
 android {
-    namespace 'com.example.sample_project'
+    namespace 'com.leerb.englishforkids'
     compileSdk 33
     buildFeatures {
         viewBinding true
     }
 
     defaultConfig {
-        applicationId "com.example.sample_project"
+        applicationId "com.leerb.englishforkids"
         minSdk 23
         targetSdk 33
         versionCode 1
@@ -31,36 +31,31 @@ android {
     }
 }
 
-dependencies {
 
+dependencies {
+    implementation platform('com.google.firebase:firebase-bom:32.1.0')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-core:21.1.1'
+
+    implementation 'androidx.room:room-common:2.5.1'
     implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'com.google.android.material:material:1.8.0'
+    implementation 'com.google.android.material:material:1.9.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.room:room-runtime:2.5.1'
+    implementation 'com.google.android.gms:play-services-cast-tv:21.0.0'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    annotationProcessor 'androidx.room:room-compiler:2.5.1'
 
     def lifecycle_version = "2.5.1"
     def arch_version = "2.1.0"
 
-    // ViewModel
     //noinspection GradleDependency
-    implementation "androidx.lifecycle:lifecycle-viewmodel:$lifecycle_version"
-    // LiveData
-    //noinspection GradleDependency
+    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.5.1'
     implementation "androidx.lifecycle:lifecycle-livedata:$lifecycle_version"
-    // Lifecycles only (without ViewModel or LiveData)
-    //noinspection GradleDependency
     implementation "androidx.lifecycle:lifecycle-runtime:$lifecycle_version"
-
-    // Saved state module for ViewModel
-    //noinspection GradleDependency
     implementation "androidx.lifecycle:lifecycle-viewmodel-savedstate:$lifecycle_version"
-
-    // Annotation processor
-    //noinspection LifecycleAnnotationProcessorWithJava8
     annotationProcessor "androidx.lifecycle:lifecycle-compiler:$lifecycle_version"
-    // alternately - if using Java8, use the following instead of lifecycle-compiler
-    //noinspection GradleDependency
     implementation "androidx.lifecycle:lifecycle-common-java8:$lifecycle_version"
 }

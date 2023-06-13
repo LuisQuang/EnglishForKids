@@ -3,17 +3,17 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
-        android:name="com.example.funstory.App"
+        android:name="com.leerb.englishforkids.App"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/im_fb"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.FunStoryK13"
+        android:theme="@style/EngForKidsThemes"
         tools:targetApi="31">
         <activity
-            android:name="com.example.funstory.view.act.M001MainAct"
+            android:name="com.leerb.englishforkids.view.act.MainAct"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
