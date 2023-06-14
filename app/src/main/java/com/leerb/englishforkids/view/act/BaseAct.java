@@ -18,7 +18,7 @@ import com.leerb.englishforkids.view.frm.BaseFragment;
 
 import java.lang.reflect.Constructor;
 
-public abstract class BaseAct<V extends ViewBinding, M extends ViewModel> extends AppCompatActivity implements View.OnClickListener, OnMainCallBack, OnRunUI {
+public abstract class BaseAct<V extends ViewBinding, M extends ViewModel> extends AppCompatActivity implements View.OnClickListener, OnMainCallBack {
     protected V binding;
     protected M viewModel;
 
@@ -57,7 +57,6 @@ public abstract class BaseAct<V extends ViewBinding, M extends ViewModel> extend
             Constructor<?> constructor = clazz.getConstructor();
             BaseFragment<?, ?> baseFragment = (BaseFragment<?, ?>) constructor.newInstance();
             baseFragment.setCallback(this);
-            baseFragment.setUpdateUI(this);
             baseFragment.setData(data);
             FragmentTransaction trans = getSupportFragmentManager().beginTransaction();
             if (isBacked) {
@@ -69,8 +68,4 @@ public abstract class BaseAct<V extends ViewBinding, M extends ViewModel> extend
         }
     }
 
-    @Override
-    public void OnRunUI(Runnable run) {
-        runOnUiThread(run);
-    }
 }

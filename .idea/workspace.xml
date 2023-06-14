@@ -21,45 +21,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf3782dc-b4f9-414e-9fe9-f67f3c311d8a" name="Changes" comment="ok">
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/DB/AppDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/DB/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/DB/entity/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/MediaManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/MainAct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M001SplashFrm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M002DisplayLangFrm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M003SignupFrm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M004SignInFrm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M005VerifyFrm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M006NewPassFrm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M007ResetPassFrm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_letgo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_btn_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/im_astronat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/im_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/im_cute_as.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/im_eye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/im_fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/im_google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/im_shinning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/img_usa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/img_vietnam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tv_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/open_sans_italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/open_sans_regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/m001_frm_splash.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/m002_frm_language.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/m003_frm_signup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/m004_frm_sign_in.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/m005_frm_verify.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/m006_frm_new_pass.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/m007_frm_reset_pass.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
@@ -69,107 +30,22 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Con gái.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Con nít.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Con trai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Công sở.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Cười 18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Cực hài.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Dân gian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Gia đình.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Giao thông.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Học sinh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Học trò cười.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Khoa học.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Nghề nghiệp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Người lớn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Nhà hàng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Say xỉn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Tam quốc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Thơ ca cười.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Thơ vui.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Thế giới.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Tiếu lâm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Truyện bựa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Trạng quỳnh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Tây du kí chế.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Tình yêu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Tôn giáo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Việt nam và thế giới.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Vova.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/photo/Y tế.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Con gái.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Con nít.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Con trai.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Công sở.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Cười 18.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Cực hài.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Dân gian.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Gia đình.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Giao thông.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Học sinh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Học trò cười.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Khoa học.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Nghề nghiệp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Người lớn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Nhà hàng.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Say xỉn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Tam quốc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Thơ ca cười.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Thơ vui.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Thế giới.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Tiếu lâm.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Truyện bựa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Trạng quỳnh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Tây du kí chế.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Tình yêu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Tôn giáo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Việt nam và thế giới.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Vova.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/story/Y tế.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/CommonUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/Storage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/adapter/MyPagerAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/adapter/StoryAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/model/Story.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/model/Topic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/view/OnMainCallBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/OnMainCallBack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/view/act/BaseAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/BaseAct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/view/act/M001MainAct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/view/frm/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/BaseFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/view/frm/M000_Splash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/view/frm/M001_Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/view/frm/M002_ReadStory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/viewmode/CommonVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/viewmode/CommonVM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/funstory/viewmode/M001MainVM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_back.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_con_gai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_face.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_splash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/actionbar_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_detail_story.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/i001_item_start_menu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/i001_item_topic.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/i001_tem_story.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_detail_story.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m000_splash.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m001_menu_stories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m002_read_story.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/CommonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/BaseAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/BaseAct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/MainAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/MainAct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/BaseFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M001SplashFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M001SplashFrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M002DisplayLangFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M002DisplayLangFrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M003SignupFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M003SignupFrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M004SignInFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M004SignInFrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M007ResetPassFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M007ResetPassFrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m003_frm_signup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/m003_frm_signup.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m004_frm_sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/m004_frm_sign_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m007_frm_reset_pass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/m007_frm_reset_pass.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,26 +85,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ScreenshotViewer.SavePath": "D:/",
-    "android-custom-viewC:/Users/Admin/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_SELECTED": "ViewPager",
-    "android-custom-viewC:/Users/Admin/AndroidStudioProjects/FunStory/app/src/main/java/com/example/funstory/adapter/PagerAdapter.java_SELECTED": "PagerAdapter",
-    "cidr.known.project.marker": "true",
-    "com.google.services.firebase.aqiPopupShown": "true",
-    "last_opened_file_path": "C:/Users/Admin/AndroidStudioProjects/EnglishForKids/app",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ScreenshotViewer.SavePath&quot;: &quot;D:/&quot;,
+    &quot;android-custom-viewC:/Users/Admin/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_SELECTED&quot;: &quot;ViewPager&quot;,
+    &quot;android-custom-viewC:/Users/Admin/AndroidStudioProjects/FunStory/app/src/main/java/com/example/funstory/adapter/PagerAdapter.java_SELECTED&quot;: &quot;PagerAdapter&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/AndroidStudioProjects/EnglishForKids&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   },
-  "keyToStringList": {
-    "android.recentlyUsedThemes": [
-      "Base.Theme.AppCompat.Dialog"
+  &quot;keyToStringList&quot;: {
+    &quot;android.recentlyUsedThemes&quot;: [
+      &quot;Base.Theme.AppCompat.Dialog&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.leerb.englishforkids.view.frm" />
@@ -337,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684421952713</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ok">
+      <created>1686672291485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686672291485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

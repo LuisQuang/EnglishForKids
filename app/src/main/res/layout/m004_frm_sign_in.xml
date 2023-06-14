@@ -128,6 +128,7 @@
         tools:ignore="RtlSymmetry">
 
         <CheckBox
+            android:id="@+id/check_box"
             android:layout_width="24dp"
             android:layout_height="24dp"
             tools:ignore="TouchTargetSizeCheck" />
@@ -149,6 +150,7 @@
             android:layout_height="match_parent" />
 
         <TextView
+            android:id="@+id/tv_forget_pass"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fontFamily="@font/open_sans_regular"
@@ -199,6 +201,7 @@
             tools:ignore="TextContrastCheck" />
 
         <TextView
+            android:id="@+id/tv_signup"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_marginStart="10dp"

@@ -2,6 +2,7 @@ package com.leerb.englishforkids.view.act;
 
 import com.leerb.englishforkids.databinding.ActivityHomeBinding;
 import com.leerb.englishforkids.view.frm.M001SplashFrm;
+import com.leerb.englishforkids.view.frm.M003SignupFrm;
 import com.leerb.englishforkids.viewmode.CommonVM;
 
 public class MainAct extends BaseAct<ActivityHomeBinding, CommonVM> {

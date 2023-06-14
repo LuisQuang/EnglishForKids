@@ -7,23 +7,28 @@ public class CommonUtils {
     private static final String PREF_FILE = "pref_saving";
     private static CommonUtils instance;
 
-    public static CommonUtils getInstance(){
-        if(instance ==null){
+    public static CommonUtils getInstance() {
+        if (instance == null) {
             instance = new CommonUtils();
         }
         return instance;
     }
-    public void savePref(String key , String value){
+
+    public void savePref(String key, String value) {
         SharedPreferences preferences = App.getInstance().getSharedPreferences(PREF_FILE, Context.MODE_PRIVATE);
-        preferences.edit().putString(key,value).apply();
+        preferences.edit().putString(key, value).apply();
     }
-    public String getPref(String key){
+
+    public String getPref(String key) {
         SharedPreferences preferences = App.getInstance().getSharedPreferences(PREF_FILE, Context.MODE_PRIVATE);
-        return preferences.getString(key,null);
+        return preferences.getString(key, "");
     }
-    public void clearPref(String key){
+
+    public void clearPref(String key) {
         SharedPreferences preferences = App.getInstance().getSharedPreferences(PREF_FILE, Context.MODE_PRIVATE);
-        preferences.edit().remove(key).apply();
+        if (preferences.contains(key)) {
+            preferences.edit().remove(key).apply();
+        }
     }
 
 }

@@ -25,11 +25,6 @@ public abstract class BaseFragment<V extends ViewBinding, M extends ViewModel> e
     protected M viewModel;
     protected OnMainCallBack callback;
     private Object data;
-    protected OnRunUI updateUI;
-
-    public void setUpdateUI(OnRunUI updateUI) {
-        this.updateUI = updateUI;
-    }
 
     public void setCallback(OnMainCallBack callback) {
         this.callback = callback;
