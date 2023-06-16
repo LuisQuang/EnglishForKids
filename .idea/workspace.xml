@@ -20,7 +20,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3782dc-b4f9-414e-9fe9-f67f3c311d8a" name="Changes" comment="ok">
+    <list default="true" id="cf3782dc-b4f9-414e-9fe9-f67f3c311d8a" name="Changes" comment="ok 14/6">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M008MainAppUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/OnTextWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/m008_frm_main_app_ui.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
@@ -30,22 +33,18 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/CommonUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/BaseAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/BaseAct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/MainAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/act/MainAct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/BaseFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M001SplashFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M001SplashFrm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M002DisplayLangFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M002DisplayLangFrm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M003SignupFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M003SignupFrm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M004SignInFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M004SignInFrm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M007ResetPassFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M007ResetPassFrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M005VerifyFrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leerb/englishforkids/view/frm/M005VerifyFrm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m003_frm_signup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/m003_frm_signup.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m004_frm_sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/m004_frm_sign_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m005_frm_verify.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/m005_frm_verify.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m006_frm_new_pass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/m006_frm_new_pass.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/m007_frm_reset_pass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/m007_frm_reset_pass.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +57,51 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EnglishForKids" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EnglishForKids" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EnglishForKids" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EnglishForKids" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="layoutResourceFile" />
         <option value="Class" />
         <option value="resourceFile" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -96,8 +133,8 @@
     &quot;android-custom-viewC:/Users/Admin/AndroidStudioProjects/FunStory/app/src/main/java/com/example/funstory/adapter/PagerAdapter.java_SELECTED&quot;: &quot;PagerAdapter&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/AndroidStudioProjects/EnglishForKids&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/AndroidStudioProjects/FireBaseExample&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;experimental&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;android.recentlyUsedThemes&quot;: [
@@ -118,6 +155,9 @@
       <recent name="C:\Users\Admin\AndroidStudioProjects\EnglishForKids\app\src\main\res\font" />
       <recent name="C:\Users\Admin\AndroidStudioProjects\AiLaTrieuPhu\app\src\main\res\drawable" />
     </key>
+    <key name="android.template.-721168887">
+      <recent name="com.leerb.englishforkids.view.frm" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\AndroidStudioProjects\AiLaTrieuPhu\app\src\main\assets\db" />
       <recent name="C:\Users\Admin\AndroidStudioProjects\FunStory\app\src\main\assets" />
@@ -130,7 +170,7 @@
       <recent name="com.example.funstory" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="EnglishForKids.app.main" />
       <option name="DEPLOY" value="true" />
@@ -189,6 +229,32 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EnglishForKids:app [testDebugUnitTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testDebugUnitTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.EnglishForKids:app [testDebugUnitTest]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -220,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686672291485</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ok 14/6">
+      <created>1686755180118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686755180118</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +309,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="ok 14/6" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok 14/6" />
   </component>
 </project>

@@ -18,10 +18,12 @@
     <string name="sign_in_by_google">Sign in by Google</string>
     <string name="don_t_have_account">Don’t have account?</string>
     <string name="verification">Verification</string>
-    <string name="verification_des">"Enter the verify code that was send to shiningworld@gmail.com "</string>
+    <string name="verification_des">"Enter the verify code that was send to your email"</string>
     <string name="confirm">Confirm</string>
     <string name="new_pasword">New Pasword</string>
     <string name="reset_password">Reset Password</string>
     <string name="send_email">Send Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
 
 </resources>

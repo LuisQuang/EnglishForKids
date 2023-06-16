@@ -64,12 +64,14 @@
             tools:ignore="UselessParent">
 
 
-            <androidx.appcompat.widget.AppCompatEditText
+            <EditText
                 android:id="@+id/edt_mail"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/btn_2"
                 android:hint="@string/email"
+                android:imeOptions="actionNext"
+                android:inputType="textEmailAddress"
                 android:paddingStart="15dp"
                 android:textColor="@color/black"
                 android:textSize="14sp"
@@ -103,18 +105,22 @@
                 android:layout_gravity="center"
                 android:layout_weight="3"
                 android:background="@drawable/btn_2"
+                android:focusable="true"
                 android:hint="@string/password"
+                android:imeOptions="actionNext"
+                android:inputType="textPassword"
                 android:paddingStart="15dp"
                 android:textColor="@color/black"
                 android:textSize="14sp"
-                android:focusable="true"
                 tools:ignore="RtlSymmetry,TouchTargetSizeCheck,VisualLintTextFieldSize" />
 
             <ImageView
                 android:id="@+id/im_eye"
                 android:layout_width="0dp"
-                android:layout_height="24dp"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:scaleX="0.5"
+                android:scaleY="0.5"
                 android:src="@drawable/im_eye"
                 tools:ignore="ContentDescription,ImageContrastCheck" />
 
@@ -147,6 +153,8 @@
                 android:background="@drawable/btn_2"
                 android:fitsSystemWindows="true"
                 android:hint="@string/confirm_password"
+                android:imeOptions="actionDone"
+                android:inputType="textPassword"
                 android:paddingStart="15dp"
                 android:textColor="@color/black"
                 android:textSize="14sp"
@@ -155,8 +163,10 @@
             <ImageView
                 android:id="@+id/iv_eye_conf"
                 android:layout_width="0dp"
-                android:layout_height="24dp"
+                android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:scaleX="0.5"
+                android:scaleY="0.5"
                 android:src="@drawable/im_eye"
                 tools:ignore="ContentDescription,ImageContrastCheck" />
 
